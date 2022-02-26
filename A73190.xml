@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new little northren song called, Vnder and ouer, ouer and vnder, or a pretty new least, and yet no wonder, or a mayden mistaken, as many now bee, view well this glasse, and you may plainely see To a pretty new northern tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73190</idno>
+            <idno type="STC">STC 22919.3</idno>
+            <idno type="STC">ESTC S124614</idno>
+            <idno type="EEBO-CITATION">99899012</idno>
+            <idno type="PROQUEST">99899012</idno>
+            <idno type="VID">150759</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150759)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1978:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new little northren song called, Vnder and ouer, ouer and vnder, or a pretty new least, and yet no wonder, or a mayden mistaken, as many now bee, view well this glasse, and you may plainely see To a pretty new northern tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>[by A. Mathewes] for H. G[osson].,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1631?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names and date of publication from STC.</note>
+                  <note>Verse - "As I abroad was walking,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love poetry --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150759:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>A New little Northren Song called,
+<l>Vnder and ouer, ouer and vnder,</l>
+               <l>Or a pretty new Ieaſt, and yet no wonder,</l>
+               <l>Or a mayden miſtaken, as many now bee,</l>
+               <l>View well this glaſſe, and you may plainely ſee.</l>
+            </head>
+            <opener>To a pretty new Northern tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AS I abroad was walking,</l>
+                  <l>I heard two louers talking:</l>
+                  <l>One to the other ſpake,</l>
+                  <l>of loues conſtancie:</l>
+                  <l>I ore a medow turning,</l>
+                  <l>vpon a Summers morning:</l>
+                  <l>I heard theſe Louers mourning,</l>
+                  <l>cauſe of loues cruelty.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For vnder and ouer, ouer and vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>vnder and ouer agen,</hi>
+                     </l>
+                     <l>
+                        <hi>quoth ſhee ſweet heart I loue thee,</hi>
+                     </l>
+                     <l>
+                        <hi>as maydens ſhould love men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The young-man he replyed,</l>
+                  <l>and not her loue denyed,</l>
+                  <l>Quoth hée I am affyed:</l>
+                  <l>in conſtancy to thee,</l>
+                  <l>Then caſt all ſorrowes from thee:</l>
+                  <l>for I will neuer wrong thée,</l>
+                  <l>Sweet pleaſures ſhall o'rethrong thee</l>
+                  <l>ſo thou bée true to me.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For vnder and over, over and vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>vnder, and ouer agen,</hi>
+                     </l>
+                     <l>
+                        <hi>I meane ſweete heart to loue thee,</hi>
+                     </l>
+                     <l>
+                        <hi>as mayds are lou'd of men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>(Quoth ſhe) my onely ſweeting,</l>
+                  <l>men fayle oft in their meeting,</l>
+                  <l>Let me haue faithfull gréeting,</l>
+                  <l>or elſe depart for aye:</l>
+                  <l>O ſay not ſo may Iewell,</l>
+                  <l>for then you are to cruell,</l>
+                  <l>Yeeld Cupid's fire more fewell,</l>
+                  <l>let not true loue decay.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For vnder and over, over &amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>I loue thee mine owne ſweeting,</hi>
+                     </l>
+                     <l>
+                        <hi>as mayds are lou'd of men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sayd ſhee, you men can flatter,</l>
+                  <l>(quote he) ſweete no ſuch matter,</l>
+                  <l>With that amaine flung at her:</l>
+                  <l>and the began to play,</l>
+                  <l>Such kiſſes ſwéete he gaue her,</l>
+                  <l>and often time did craue her,</l>
+                  <l>That he in loue might haue her:</l>
+                  <l>to ſport with him all day.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>At vnder and over, over &amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>yeeld thou to ſport with me ſweet</hi>
+                     </l>
+                     <l>
+                        <hi>as mayds doe ſport with men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He by the white hand tooke her,</l>
+                  <l>and then in kindneſſe ſhooke her,</l>
+                  <l>Swearing he had miſtooke her:</l>
+                  <l>if now ſhe prou'd vnkind,</l>
+                  <l>Oh, yeeld my ſweete vnto me,</l>
+                  <l>or elſe you will vndoe me,</l>
+                  <l>If thou no loue wilt ſhow me,</l>
+                  <l>to griefe I am aſſign'd.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then vnder and over, over &amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>come ſport with me my ſweeting.</hi>
+                     </l>
+                     <l>
+                        <hi>as mayds doe ſport with men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>At length this Laſſe conſented,</l>
+                  <l>they both were well contented,</l>
+                  <l>And often times frequented,</l>
+                  <l>the louely meadow gréene,</l>
+                  <l>To gather louely dazies,</l>
+                  <l>or ſport in Cupid's mazes,</l>
+                  <l>I ſpeake it to their praiſes:</l>
+                  <l>they merry there haue beene.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over &amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>Theſe two did ſport together,</hi>
+                     </l>
+                     <l>
+                        <hi>as vvomen ſport vvith men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>E're fortie weekes expired,</l>
+                  <l>this bonny Laſſe was tyred,</l>
+                  <l>Her heart with loue was fired:</l>
+                  <l>and growne ſo round before,</l>
+                  <l>This young man from her wanders,</l>
+                  <l>to France or elſe to Flaunders:</l>
+                  <l>Thus was ſhe ſerued with Flanders,</l>
+                  <l>her heart then waxed ſore.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over &amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>this mayd was wrong'd in earneſt</hi>
+                     </l>
+                     <l>
+                        <hi>as mayds are wrong'd by men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THen ſhée began to prattle,</l>
+                  <l>like one of Cupid's cattle,</l>
+                  <l>And dayly would ſhe tattle,</l>
+                  <l>That her loue was too vnkind:</l>
+                  <l>Thus in diſtreſſe to leaue her,</l>
+                  <l>and by his words deceaue her,</l>
+                  <l>Which did of ioyes bereaue her,</l>
+                  <l>that ſhee was left behind.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over and vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>vnder and over agen,</hi>
+                     </l>
+                     <l>
+                        <hi>ſhe rayl'd againſt her ſweet heart,</hi>
+                     </l>
+                     <l>
+                        <hi>as women rayle gainſt men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then ſhee vnto her mother,</l>
+                  <l>complain'd before another,</l>
+                  <l>This fault ſhe could not ſmother,</l>
+                  <l>her belly was ſo round:</l>
+                  <l>Quoth ſhe) ſome comfort yeeld me,</l>
+                  <l>and from all ſhame pray ſhield me,</l>
+                  <l>For ſorrowes Tyde hath fild me,</l>
+                  <l>that I am like to ſound.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over and vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>vnder and over agen,</hi>
+                     </l>
+                     <l>
+                        <hi>ſhe gainſt her love complained,</hi>
+                     </l>
+                     <l>
+                        <hi>as mayds complaine gainſt men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Her mother ſtraight perceiued,</l>
+                  <l>her daughter was deceiued,</l>
+                  <l>Which very much her grieued,</l>
+                  <l>but now for helpe ſhe ſeekes,</l>
+                  <l>How to keepe her daughter</l>
+                  <l>from ſhame ſhould follow after,</l>
+                  <l>And this ſame ſhameleſſe matter,</l>
+                  <l>in priuate cloſe ſhee kéepes.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over and vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>vnder and over agen,</hi>
+                     </l>
+                     <l>
+                        <hi>ſhe ſayes vnto her daughter</hi>
+                     </l>
+                     <l>
+                        <hi>theſe are the trickes of men<g ref="char:punc">▪</g>
+                        </hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>In briefe ſhe was deliuered,</l>
+                  <l>the Carryer he was hyred.</l>
+                  <l>And ſhe from thence was carryed</l>
+                  <l>to London with all ſpeed:</l>
+                  <l>No one could be demurer,</l>
+                  <l>nor ſeeme a Virgin purer,</l>
+                  <l>Her carryage now did ſure her,</l>
+                  <l>to bee a mayd indeed.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over and vnder</hi>
+                     </l>
+                     <l>
+                        <hi>ſhee vowes never to ſport that way,</hi>
+                     </l>
+                     <l>
+                        <hi>that maydens vſe with men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then in ſhort time came to her.</l>
+                  <l>a Taylor and did woo her,</l>
+                  <l>He neuer could part fro her,</l>
+                  <l>till ſhe was made his wife:</l>
+                  <l>He for a mayd did take her,</l>
+                  <l>and vowd ne're to forſake her</l>
+                  <l>But ſtill be her partaker,</l>
+                  <l>And loue her as his life.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and ouer, ouer &amp;c.</hi>
+                     </l>
+                     <l>
+                        <hi>She vow'd euer to loue him ſtill,</hi>
+                     </l>
+                     <l>
+                        <hi>as vvomen doe loue men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Thus were her griefes conuerted,</l>
+                  <l>and ſhe was now light hearted,</l>
+                  <l>Being ſo well ſupported,</l>
+                  <l>by her new wedded mate,</l>
+                  <l>She now was freed from mourning,</l>
+                  <l>her griefe to ioyes were turning,</l>
+                  <l>She now liu'd voyd of ſcorning,</l>
+                  <l>diſſenſion and debate.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With vnder and over, over and vnder,</hi>
+                     </l>
+                     <l>
+                        <hi>ſhee vow'd euer to love him ſtill,</hi>
+                     </l>
+                     <l>
+                        <hi>as women doe loue men.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Lon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on Printed for <hi>H.</hi> G.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
